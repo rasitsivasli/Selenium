@@ -22,6 +22,8 @@ public class Example4 {
         driver.manage().window().setPosition(point);
         Thread.sleep(3000);
         driver.quit();
+        driver.quit();
+        driver.quit();
 
 
     }
